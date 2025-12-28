@@ -7,15 +7,15 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%24+whoami;prabesh_pandey+%7C+Full+Stack+Developer;%24+echo+%24STATUS;%F0%9F%9F%A2+Available+for+opportunities" alt="Typing SVG" /></a>
 
-<!-- Profile Views & Social Badges -->
+<!-- Profile Views & Social Badges (non-clickable to avoid redirecting to profile) -->
 <p>
-  <a href="https://github.com/Prabesh-Pandey"><img src="https://komarev.com/ghpvc/?username=Prabesh-Pandey&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/></a>
-  <a href="https://github.com/Prabesh-Pandey?tab=followers"><img src="https://img.shields.io/github/followers/Prabesh-Pandey?label=Followers&style=for-the-badge&color=blueviolet" alt="GitHub Followers"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Prabesh-Pandey&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Prabesh-Pandey?label=Followers&style=for-the-badge&color=blueviolet" alt="GitHub Followers"/>
 </p>
 
-<!-- Quick Links -->
+<!-- Quick Links (GitHub badge made non-clickable per request) -->
 <p>
-  <a href="https://github.com/Prabesh-Pandey"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <a href="https://www.linkedin.com/in/prabesh-pandey-075156372/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <!-- <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> -->
 </p>
@@ -166,17 +166,15 @@ const prabesh = {
 
 <div align="center">
   
-<a href="https://github.com/Prabesh-Pandey">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prabesh-Pandey&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prabesh-Pandey&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9"/>
-</a>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prabesh-Pandey&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9" alt="GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prabesh-Pandey&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="Top languages"/>
 
-<br/><br/>
+  <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=Prabesh-Pandey&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=22D3EE&currStreakLabel=A855F7" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Prabesh-Pandey&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=22D3EE&currStreakLabel=A855F7" alt="GitHub Streak"/>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prabesh-Pandey&bg_color=0D1117&color=A855F7&line=22D3EE&point=A855F7&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prabesh-Pandey&bg_color=0D1117&color=A855F7&line=22D3EE&point=A855F7&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 
 </div>
 
@@ -213,9 +211,9 @@ const prabesh = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Prabesh-Pandey/Prabesh-Pandey/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Prabesh-Pandey/Prabesh-Pandey/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://github.com/Prabesh-Pandey/Prabesh-Pandey/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prabesh-Pandey/Prabesh-Pandey/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prabesh-Pandey/Prabesh-Pandey/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Prabesh-Pandey/Prabesh-Pandey/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
@@ -238,7 +236,7 @@ const prabesh = {
 ### Let's Connect
 
 <p>
-  <a href="https://github.com/Prabesh-Pandey"><img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <a href="https://www.linkedin.com/in/prabesh-pandey-075156372/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
