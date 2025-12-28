@@ -165,11 +165,13 @@ const prabesh = {
 <div align="center">
   
 <a href="https://github.com/Prabesh-Pandey">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prabesh-Pandey&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabesh-Pandey&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prabesh-Pandey&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prabesh-Pandey&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9"/>
 </a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabesh-Pandey&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=22D3EE&currStreakLabel=A855F7" alt="GitHub Streak"/>
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=Prabesh-Pandey&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=22D3EE&currStreakLabel=A855F7" alt="GitHub Streak"/>
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prabesh-Pandey&bg_color=0D1117&color=A855F7&line=22D3EE&point=A855F7&area=true&hide_border=true" alt="GitHub Activity Graph"/>
@@ -183,10 +185,10 @@ const prabesh = {
 <div align="center">
 
 <a href="https://github.com/Prabesh-Pandey/LocalSkillSwap">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Prabesh-Pandey&repo=LocalSkillSwap&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&text_color=C9D1D9" />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Prabesh-Pandey&repo=LocalSkillSwap&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&text_color=C9D1D9" />
 </a>
 <a href="https://github.com/Prabesh-Pandey/Task-Manager">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Prabesh-Pandey&repo=Task-Manager&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&text_color=C9D1D9" />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Prabesh-Pandey&repo=Task-Manager&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&text_color=C9D1D9" />
 </a>
 
 </div>
@@ -206,11 +208,7 @@ const prabesh = {
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prabesh-Pandey/Prabesh-Pandey/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prabesh-Pandey/Prabesh-Pandey/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Prabesh-Pandey/Prabesh-Pandey/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/Prabesh-Pandey/Prabesh-Pandey/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
