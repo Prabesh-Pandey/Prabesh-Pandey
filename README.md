@@ -17,7 +17,7 @@
 <p>
   <a href="https://github.com/Prabesh-Pandey"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/prabesh-pandey-075156372/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <!-- <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> -->
 </p>
 
 </div>
@@ -26,10 +26,12 @@
 
 ## About Me
 
+<p align="center"><i>Welcome to my profile! I'm passionate about building creative digital experiences and sharing my journey as a developer.</i></p>
+
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Pixel art developer workspace animated banner"/>
 
 </div>
 
@@ -41,7 +43,7 @@
 
 ### Who Am I?
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" alt="Who am I animation"/>
 
 I'm a passionate **Software Engineering student** from **Nepal** who transforms ideas into digital reality.
 
@@ -62,9 +64,9 @@ const prabesh = {
 };
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" alt="Quick facts animation">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" alt="Quick facts animation">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" alt="Quick facts animation">
 
 </td>
 </tr>
@@ -91,21 +93,21 @@ const prabesh = {
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80" alt="Coffee Enthusiast animation"/>
 <br/>
 <b>Coffee Enthusiast</b>
 <br/>
 <sub>Runs on caffeine</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80" alt="Music Lover animation"/>
 <br/>
 <b>Music Lover</b>
 <br/>
 <sub>Codes with beats</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80" alt="Casual Gamer animation"/>
 <br/>
 <b>Casual Gamer</b>
 <br/>
@@ -119,7 +121,7 @@ const prabesh = {
 <br/>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Animated divider"/>
 
 ---
 
@@ -182,13 +184,15 @@ const prabesh = {
 
 ## Featured Projects
 
+<p align="center"><i>Here are some of my favorite and most impactful projects. Check them out for code samples, ideas, and inspiration!</i></p>
+
 <div align="center">
 
 <a href="https://github.com/Prabesh-Pandey/LocalSkillSwap">
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Prabesh-Pandey&repo=LocalSkillSwap&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&text_color=C9D1D9" />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Nepal-College-of-Information-Technology&repo=project-work-group-20&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&text_color=C9D1D9" alt="Furniture E-Commerce project card" />
 </a>
 <a href="https://github.com/Prabesh-Pandey/Task-Manager">
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Prabesh-Pandey&repo=Task-Manager&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&text_color=C9D1D9" />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Prabesh-Pandey&repo=Task-Manager&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&text_color=C9D1D9" alt="Task Manager project card" />
 </a>
 
 </div>
@@ -240,7 +244,7 @@ const prabesh = {
 
 ---
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
 ---
 
@@ -254,4 +258,4 @@ const prabesh = {
 </div>
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer wave"/>
