@@ -208,7 +208,11 @@ const prabesh = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Prabesh-Pandey/Prabesh-Pandey/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Prabesh-Pandey/Prabesh-Pandey/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Prabesh-Pandey/Prabesh-Pandey/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://github.com/Prabesh-Pandey/Prabesh-Pandey/blob/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
