@@ -21,11 +21,31 @@
   <div style="max-width:880px;margin:18px auto;padding:18px;border-radius:12px;background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));box-shadow:0 8px 30px rgba(12,13,20,0.5);border:1px solid rgba(255,255,255,0.04);display:flex;gap:20px;align-items:center;flex-wrap:wrap;">
     <div style="flex:1;min-width:240px">
       <p style="margin:0 0 8px 0;font-style:italic">Welcome — I build polished web apps and enjoy exploring design, performance, and user-centric product work.</p>
-      <ul style="margin:6px 0 0 0;padding:0;line-height:1.6;list-style:none;padding-left:0;">
-        <li style="display:flex;align-items:center;gap:8px;margin:6px 0"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/location-16.svg" alt="Location" style="width:16px;"/><strong>Location:</strong> Nepal — Software Engineering student</li>
-        <li style="display:flex;align-items:center;gap:8px;margin:6px 0"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/briefcase-16.svg" alt="Role" style="width:16px;"/><strong>Role:</strong> Full Stack Developer (React / Node / TypeScript)</li>
-        <li style="display:flex;align-items:center;gap:8px;margin:6px 0"><img src="https://unpkg.com/feather-icons/dist/icons/zap.svg" alt="Focus" style="width:16px;"/><strong>Focus:</strong> Performance, Accessibility & Clean Architecture</li>
-        <li style="display:flex;align-items:center;gap:8px;margin:6px 0"><img src="https://unpkg.com/feather-icons/dist/icons/users.svg" alt="Availability" style="width:16px;"/><strong>Availability:</strong> Open to collaboration & mentorship</li>
+      <ul style="margin:6px 0 0 0;padding:0;line-height:1.8;list-style:none;padding-left:0;font-size:15px;">
+        <li style="display:flex;gap:12px;margin:8px 0;align-items:flex-start">
+          <div style="flex:0 0 22px;display:flex;align-items:center;justify-content:center;width:22px">
+            <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/location-16.svg" alt="Location" style="width:16px;filter:invert(1) brightness(1.3);opacity:0.95"/>
+          </div>
+          <div style="flex:1"><span style="font-weight:600;color:#FFFFFF">Location:</span> <span style="color:#D1D5DB">Nepal — Software Engineering student</span></div>
+        </li>
+        <li style="display:flex;gap:12px;margin:8px 0;align-items:flex-start">
+          <div style="flex:0 0 22px;display:flex;align-items:center;justify-content:center;width:22px">
+            <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/briefcase-16.svg" alt="Role" style="width:16px;filter:invert(1) brightness(1.3);opacity:0.95"/>
+          </div>
+          <div style="flex:1"><span style="font-weight:600;color:#FFFFFF">Role:</span> <span style="color:#D1D5DB">Full Stack Developer (React / Node / TypeScript)</span></div>
+        </li>
+        <li style="display:flex;gap:12px;margin:8px 0;align-items:flex-start">
+          <div style="flex:0 0 22px;display:flex;align-items:center;justify-content:center;width:22px">
+            <img src="https://unpkg.com/feather-icons/dist/icons/zap.svg" alt="Focus" style="width:16px;filter:invert(1) brightness(1.3);opacity:0.95"/>
+          </div>
+          <div style="flex:1"><span style="font-weight:600;color:#FFFFFF">Focus:</span> <span style="color:#D1D5DB">Performance, Accessibility & Clean Architecture</span></div>
+        </li>
+        <li style="display:flex;gap:12px;margin:8px 0;align-items:flex-start">
+          <div style="flex:0 0 22px;display:flex;align-items:center;justify-content:center;width:22px">
+            <img src="https://unpkg.com/feather-icons/dist/icons/users.svg" alt="Availability" style="width:16px;filter:invert(1) brightness(1.3);opacity:0.95"/>
+          </div>
+          <div style="flex:1"><span style="font-weight:600;color:#FFFFFF">Availability:</span> <span style="color:#D1D5DB">Open to collaboration & mentorship</span></div>
+        </li>
       </ul>
     </div>
     <div style="width:300px;text-align:center">
@@ -50,17 +70,17 @@
     <table style="width:100%">
       <tr>
         <td align="center" width="33%">
-          <img src="https://unpkg.com/feather-icons/dist/icons/coffee.svg" width="56" alt="Coffee Enthusiast" style="filter:grayscale(100%);opacity:0.95"/>
+          <img src="https://unpkg.com/feather-icons/dist/icons/coffee.svg" width="56" alt="Coffee Enthusiast" style="filter:invert(1) brightness(1.2);opacity:0.95"/>
           <br/><b>Coffee Enthusiast</b>
           <br/><sub style="color:#9CA3AF">Runs on caffeine</sub>
         </td>
         <td align="center" width="33%">
-          <img src="https://unpkg.com/feather-icons/dist/icons/headphones.svg" width="56" alt="Music Lover" style="filter:grayscale(100%);opacity:0.95"/>
+          <img src="https://unpkg.com/feather-icons/dist/icons/headphones.svg" width="56" alt="Music Lover" style="filter:invert(1) brightness(1.2);opacity:0.95"/>
           <br/><b>Music Lover</b>
           <br/><sub style="color:#9CA3AF">Codes with beats</sub>
         </td>
         <td align="center" width="33%">
-          <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/icons/joystick.svg" width="56" alt="Casual Gamer" style="filter:grayscale(100%);opacity:0.95"/>
+          <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/icons/joystick.svg" width="56" alt="Casual Gamer" style="filter:invert(1) brightness(1.2);opacity:0.95"/>
           <br/><b>Casual Gamer</b>
           <br/><sub style="color:#9CA3AF">When not coding</sub>
         </td>
@@ -118,11 +138,23 @@
 
 <div align="center">
   <div style="max-width:760px;margin:12px auto;padding:14px;border-radius:12px;background:linear-gradient(180deg, rgba(255,255,255,0.015), rgba(255,255,255,0.008));box-shadow:0 6px 24px rgba(12,13,20,0.45);border:1px solid rgba(255,255,255,0.03)">
-    <ul style="list-style:none;padding:0;margin:0;">
-      <li style="display:flex;align-items:flex-start;gap:10px;margin:10px 0"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/chevron-right-16.svg" alt="chev" style="width:16px;opacity:0.9;margin-top:2px"/>Pursuing Software Engineering degree</li>
-      <li style="display:flex;align-items:flex-start;gap:10px;margin:10px 0"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/chevron-right-16.svg" alt="chev" style="width:16px;opacity:0.9;margin-top:2px"/>Building full-stack applications with MERN stack</li>
-      <li style="display:flex;align-items:flex-start;gap:10px;margin:10px 0"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/chevron-right-16.svg" alt="chev" style="width:16px;opacity:0.9;margin-top:2px"/>Exploring Next.js and modern web technologies</li>
-      <li style="display:flex;align-items:flex-start;gap:10px;margin:10px 0"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/chevron-right-16.svg" alt="chev" style="width:16px;opacity:0.9;margin-top:2px"/>Open to collaboration on interesting projects</li>
+    <ul style="list-style:none;padding:0;margin:0;font-size:15px;line-height:1.7;color:#D1D5DB">
+      <li style="display:flex;gap:12px;margin:10px 0;align-items:flex-start">
+        <div style="flex:0 0 22px;display:flex;align-items:center;justify-content:center;width:22px"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/chevron-right-16.svg" alt="chev" style="width:16px;opacity:0.95;filter:invert(1) brightness(1.3)"/></div>
+        <div style="flex:1">Pursuing Software Engineering degree</div>
+      </li>
+      <li style="display:flex;gap:12px;margin:10px 0;align-items:flex-start">
+        <div style="flex:0 0 22px;display:flex;align-items:center;justify-content:center;width:22px"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/chevron-right-16.svg" alt="chev" style="width:16px;opacity:0.95;filter:invert(1) brightness(1.3)"/></div>
+        <div style="flex:1">Building full-stack applications with MERN stack</div>
+      </li>
+      <li style="display:flex;gap:12px;margin:10px 0;align-items:flex-start">
+        <div style="flex:0 0 22px;display:flex;align-items:center;justify-content:center;width:22px"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/chevron-right-16.svg" alt="chev" style="width:16px;opacity:0.95;filter:invert(1) brightness(1.3)"/></div>
+        <div style="flex:1">Exploring Next.js and modern web technologies</div>
+      </li>
+      <li style="display:flex;gap:12px;margin:10px 0;align-items:flex-start">
+        <div style="flex:0 0 22px;display:flex;align-items:center;justify-content:center;width:22px"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/chevron-right-16.svg" alt="chev" style="width:16px;opacity:0.95;filter:invert(1) brightness(1.3)"/></div>
+        <div style="flex:1">Open to collaboration on interesting projects</div>
+      </li>
     </ul>
   </div>
 </div>
@@ -132,15 +164,18 @@
 ### Let's Connect
 
 <p>
-  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/Prabesh-Pandey"><img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/prabesh-pandey-075156372/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
 <p>
-  <img src="https://img.shields.io/badge/Made%20with-Love-red?style=for-the-badge" alt="Made with Love"/>
-  <img src="https://img.shields.io/badge/From-Nepal-blue?style=for-the-badge" alt="From Nepal"/>
+  <span style="display:inline-flex;gap:10px;align-items:center;font-size:14px;color:#D1D5DB">
+    <!-- <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/heart-16.svg" style="width:16px;opacity:0.95;vertical-align:middle;margin-right:6px" alt="heart"/> -->
+    <span style="margin:0 6px;color:#6B7280">•</span>
+    <span>🇳🇵 Nepal</span>
+  </span>
 </p>
 
 **Thanks for visiting! Don't forget to star some repositories!**
