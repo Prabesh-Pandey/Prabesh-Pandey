@@ -21,32 +21,24 @@
   <div style="max-width:880px;margin:18px auto;padding:18px;border-radius:12px;background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));box-shadow:0 8px 30px rgba(12,13,20,0.5);border:1px solid rgba(255,255,255,0.04);display:flex;gap:20px;align-items:center;flex-wrap:wrap;">
     <div style="flex:1;min-width:240px">
       <p style="margin:0 0 8px 0;font-style:italic">Welcome — I build polished web apps and enjoy exploring design, performance, and user-centric product work.</p>
-      <ul style="margin:6px 0 0 0;padding:0;line-height:1.8;list-style:none;padding-left:0;font-size:15px;">
-        <li style="display:flex;gap:12px;margin:8px 0;align-items:flex-start">
-          <div style="flex:0 0 22px;display:flex;align-items:center;justify-content:center;width:22px">
-            <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/location-16.svg" alt="Location" style="width:16px;filter:invert(1) brightness(1.3);opacity:0.95"/>
-          </div>
-          <div style="flex:1"><span style="font-weight:600;color:#FFFFFF">Location:</span> <span style="color:#D1D5DB">Nepal — Software Engineering student</span></div>
-        </li>
-        <li style="display:flex;gap:12px;margin:8px 0;align-items:flex-start">
-          <div style="flex:0 0 22px;display:flex;align-items:center;justify-content:center;width:22px">
-            <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/briefcase-16.svg" alt="Role" style="width:16px;filter:invert(1) brightness(1.3);opacity:0.95"/>
-          </div>
-          <div style="flex:1"><span style="font-weight:600;color:#FFFFFF">Role:</span> <span style="color:#D1D5DB">Full Stack Developer (React / Node / TypeScript)</span></div>
-        </li>
-        <li style="display:flex;gap:12px;margin:8px 0;align-items:flex-start">
-          <div style="flex:0 0 22px;display:flex;align-items:center;justify-content:center;width:22px">
-            <img src="https://unpkg.com/feather-icons/dist/icons/zap.svg" alt="Focus" style="width:16px;filter:invert(1) brightness(1.3);opacity:0.95"/>
-          </div>
-          <div style="flex:1"><span style="font-weight:600;color:#FFFFFF">Focus:</span> <span style="color:#D1D5DB">Performance, Accessibility & Clean Architecture</span></div>
-        </li>
-        <li style="display:flex;gap:12px;margin:8px 0;align-items:flex-start">
-          <div style="flex:0 0 22px;display:flex;align-items:center;justify-content:center;width:22px">
-            <img src="https://unpkg.com/feather-icons/dist/icons/users.svg" alt="Availability" style="width:16px;filter:invert(1) brightness(1.3);opacity:0.95"/>
-          </div>
-          <div style="flex:1"><span style="font-weight:600;color:#FFFFFF">Availability:</span> <span style="color:#D1D5DB">Open to collaboration & mentorship</span></div>
-        </li>
-      </ul>
+      <table style="width:100%;border-collapse:collapse;font-size:15px;color:#D1D5DB;line-height:1.7">
+        <tr>
+          <td style="width:28px;vertical-align:top;padding:6px"><img src="assets/icons/location.svg" alt="Location" width="18" style="vertical-align:middle"/></td>
+          <td style="padding:6px"><strong style="color:#FFFFFF">Location:</strong> Nepal — Software Engineering student</td>
+        </tr>
+        <tr>
+          <td style="width:28px;vertical-align:top;padding:6px"><img src="assets/icons/briefcase.svg" alt="Role" width="18" style="vertical-align:middle"/></td>
+          <td style="padding:6px"><strong style="color:#FFFFFF">Role:</strong> Full Stack Developer (React / Node / TypeScript)</td>
+        </tr>
+        <tr>
+          <td style="width:28px;vertical-align:top;padding:6px"><img src="assets/icons/zap.svg" alt="Focus" width="18" style="vertical-align:middle"/></td>
+          <td style="padding:6px"><strong style="color:#FFFFFF">Focus:</strong> Performance, Accessibility & Clean Architecture</td>
+        </tr>
+        <tr>
+          <td style="width:28px;vertical-align:top;padding:6px"><img src="assets/icons/users.svg" alt="Availability" width="18" style="vertical-align:middle"/></td>
+          <td style="padding:6px"><strong style="color:#FFFFFF">Availability:</strong> Open to collaboration & mentorship</td>
+        </tr>
+      </table>
     </div>
     <div style="width:300px;text-align:center">
       <!-- KEEP: About GIF — Loved by owner (DO NOT REMOVE) -->
@@ -70,17 +62,17 @@
     <table style="width:100%">
       <tr>
         <td align="center" width="33%">
-          <img src="https://unpkg.com/feather-icons/dist/icons/coffee.svg" width="56" alt="Coffee Enthusiast" style="filter:invert(1) brightness(1.2);opacity:0.95"/>
+          <img src="assets/icons/coffee.svg" width="56" alt="Coffee Enthusiast" style="opacity:0.95;vertical-align:middle"/>
           <br/><b>Coffee Enthusiast</b>
           <br/><sub style="color:#9CA3AF">Runs on caffeine</sub>
         </td>
         <td align="center" width="33%">
-          <img src="https://unpkg.com/feather-icons/dist/icons/headphones.svg" width="56" alt="Music Lover" style="filter:invert(1) brightness(1.2);opacity:0.95"/>
+          <img src="assets/icons/headphones.svg" width="56" alt="Music Lover" style="opacity:0.95;vertical-align:middle"/>
           <br/><b>Music Lover</b>
           <br/><sub style="color:#9CA3AF">Codes with beats</sub>
         </td>
         <td align="center" width="33%">
-          <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/icons/joystick.svg" width="56" alt="Casual Gamer" style="filter:invert(1) brightness(1.2);opacity:0.95"/>
+          <img src="assets/icons/joystick.svg" width="56" alt="Casual Gamer" style="opacity:0.95;vertical-align:middle"/>
           <br/><b>Casual Gamer</b>
           <br/><sub style="color:#9CA3AF">When not coding</sub>
         </td>
@@ -140,19 +132,19 @@
   <div style="max-width:760px;margin:12px auto;padding:14px;border-radius:12px;background:linear-gradient(180deg, rgba(255,255,255,0.015), rgba(255,255,255,0.008));box-shadow:0 6px 24px rgba(12,13,20,0.45);border:1px solid rgba(255,255,255,0.03)">
     <ul style="list-style:none;padding:0;margin:0;font-size:15px;line-height:1.7;color:#D1D5DB">
       <li style="display:flex;gap:12px;margin:10px 0;align-items:flex-start">
-        <div style="flex:0 0 22px;display:flex;align-items:center;justify-content:center;width:22px"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/chevron-right-16.svg" alt="chev" style="width:16px;opacity:0.95;filter:invert(1) brightness(1.3)"/></div>
+        <div style="flex:0 0 22px;display:flex;align-items:center;justify-content:center;width:22px"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#D1D5DB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="opacity:0.95;vertical-align:middle"><path d="M9 18l6-6-6-6"/></svg></div>
         <div style="flex:1">Pursuing Software Engineering degree</div>
       </li>
       <li style="display:flex;gap:12px;margin:10px 0;align-items:flex-start">
-        <div style="flex:0 0 22px;display:flex;align-items:center;justify-content:center;width:22px"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/chevron-right-16.svg" alt="chev" style="width:16px;opacity:0.95;filter:invert(1) brightness(1.3)"/></div>
+        <div style="flex:0 0 22px;display:flex;align-items:center;justify-content:center;width:22px"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#D1D5DB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="opacity:0.95;vertical-align:middle"><path d="M9 18l6-6-6-6"/></svg></div>
         <div style="flex:1">Building full-stack applications with MERN stack</div>
       </li>
       <li style="display:flex;gap:12px;margin:10px 0;align-items:flex-start">
-        <div style="flex:0 0 22px;display:flex;align-items:center;justify-content:center;width:22px"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/chevron-right-16.svg" alt="chev" style="width:16px;opacity:0.95;filter:invert(1) brightness(1.3)"/></div>
+        <div style="flex:0 0 22px;display:flex;align-items:center;justify-content:center;width:22px"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#D1D5DB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="opacity:0.95;vertical-align:middle"><path d="M9 18l6-6-6-6"/></svg></div>
         <div style="flex:1">Exploring Next.js and modern web technologies</div>
       </li>
       <li style="display:flex;gap:12px;margin:10px 0;align-items:flex-start">
-        <div style="flex:0 0 22px;display:flex;align-items:center;justify-content:center;width:22px"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/chevron-right-16.svg" alt="chev" style="width:16px;opacity:0.95;filter:invert(1) brightness(1.3)"/></div>
+        <div style="flex:0 0 22px;display:flex;align-items:center;justify-content:center;width:22px"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#D1D5DB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="opacity:0.95;vertical-align:middle"><path d="M9 18l6-6-6-6"/></svg></div>
         <div style="flex:1">Open to collaboration on interesting projects</div>
       </li>
     </ul>
