@@ -1,18 +1,17 @@
 <div align="center">
 
-<!-- Hero: Capsule + Typing -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Prabesh%20Pandey&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=30&desc=Full%20Stack%20Developer%20|%20Software%20Engineering%20Student&descSize=14&descAlignY=50" alt="Prabesh Pandey"/>
+<div style="max-width:980px;margin:14px auto;padding:18px;border-radius:14px;background:linear-gradient(135deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));box-shadow:0 10px 40px rgba(12,13,20,0.6);border:1px solid rgba(255,255,255,0.04);">
+
+<!-- Hero: Capsule + Typing (glass card) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Prabesh%20Pandey&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=30&desc=Full%20Stack%20Developer%20|%20Software%20Engineering%20Student&descSize=14&descAlignY=50" alt="Prabesh Pandey" style="max-width:100%;border-radius:10px;"/>
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=640&height=80&lines=%24+whoami;prabesh_pandey+%7C+Full+Stack+Developer;%24+echo+%24STATUS;%F0%9F%9F%A2+Available+for+opportunities" alt="Typing SVG" /></a>
-
-<p>
-  <!-- Consistent clickable badges -->
+<div style="margin-top:10px;display:flex;gap:10px;justify-content:center;flex-wrap:wrap;align-items:center">
   <a href="https://github.com/Prabesh-Pandey"><img src="https://img.shields.io/github/followers/Prabesh-Pandey?label=Followers&style=for-the-badge&color=7C3AED" alt="GitHub Followers"/></a>
   <a href="https://github.com/Prabesh-Pandey"><img src="https://img.shields.io/badge/Repos-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
   <a href="https://www.linkedin.com/in/prabesh-pandey-075156372/"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
+</div>
 
 </div>
 
@@ -20,40 +19,20 @@
 
 ## About
 
-<p align="center"><em>Welcome — I build polished web apps and enjoy exploring design, performance, and user-centric product work.</em></p>
-
 <div align="center">
-  <!-- Banner (reduced size) -->
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="480" alt="Pixel art developer workspace"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <div style="display:inline-block;text-align:left;max-width:560px;margin-right:20px;vertical-align:top;">
-
-### Snapshot
-
-- 📍 Nepal • Software Engineering student
-- 💼 Role: Full Stack Developer (React / Node / TypeScript)
-- ⚡ Focus: Performance, Accessibility & Clean Architecture
-- ✨ Open to collaboration and mentorship
-
-  </div>
-  <div style="display:inline-block;vertical-align:top;">
-
-### Quick Facts
-
-```javascript
-const prabesh = {
-  location: "Nepal",
-  education: "Software Engineering",
-  role: "Full Stack Developer",
-  languages: ["JavaScript", "TypeScript"],
-  status: "Open to collaboration",
-};
-```
-
+  <div style="max-width:880px;margin:18px auto;padding:18px;border-radius:12px;background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));box-shadow:0 8px 30px rgba(12,13,20,0.5);border:1px solid rgba(255,255,255,0.04);display:flex;gap:20px;align-items:center;flex-wrap:wrap;">
+    <div style="flex:1;min-width:240px">
+      <p style="margin:0 0 8px 0;font-style:italic">Welcome — I build polished web apps and enjoy exploring design, performance, and user-centric product work.</p>
+      <ul style="margin:6px 0 0 18px;padding:0">
+        <li>📍 Nepal • Software Engineering student</li>
+        <li>💼 Role: Full Stack Developer (React / Node / TypeScript)</li>
+        <li>⚡ Focus: Performance, Accessibility & Clean Architecture</li>
+        <li>✨ Open to collaboration and mentorship</li>
+      </ul>
+    </div>
+    <div style="width:300px;text-align:center">
+      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="width:100%;border-radius:8px;box-shadow:0 6px 18px rgba(0,0,0,0.6)" alt="Pixel art developer workspace"/>
+    </div>
   </div>
 </div>
 
@@ -70,25 +49,27 @@ const prabesh = {
 ## Fun Bits
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="72" alt="Coffee Enthusiast"/>
-        <br/><b>Coffee Enthusiast</b>
-        <br/><sub>Runs on caffeine</sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="72" alt="Music Lover"/>
-        <br/><b>Music Lover</b>
-        <br/><sub>Codes with beats</sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="72" alt="Casual Gamer"/>
-        <br/><b>Casual Gamer</b>
-        <br/><sub>When not coding</sub>
-      </td>
-    </tr>
-  </table>
+  <div style="max-width:760px;margin:12px auto;padding:14px;border-radius:12px;background:linear-gradient(180deg, rgba(255,255,255,0.015), rgba(255,255,255,0.008));box-shadow:0 6px 24px rgba(12,13,20,0.45);border:1px solid rgba(255,255,255,0.03)">
+    <table style="width:100%">
+      <tr>
+        <td align="center" width="33%">
+          <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="72" alt="Coffee Enthusiast"/>
+          <br/><b>Coffee Enthusiast</b>
+          <br/><sub>Runs on caffeine</sub>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="72" alt="Music Lover"/>
+          <br/><b>Music Lover</b>
+          <br/><sub>Codes with beats</sub>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="72" alt="Casual Gamer"/>
+          <br/><b>Casual Gamer</b>
+          <br/><sub>When not coding</sub>
+        </td>
+      </tr>
+    </table>
+  </div>
 </div>
 
 ---
@@ -96,17 +77,20 @@ const prabesh = {
 ## Tech Stack
 
 <div align="center">
-  <strong>Frontend</strong>
-  <br/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-  <br/><br/>
-  <strong>Backend & Data</strong>
-  <br/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <br/><br/>
-  <strong>Tools</strong>
-  <br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <div style="max-width:920px;margin:12px auto;padding:14px;border-radius:12px;background:linear-gradient(135deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));box-shadow:0 8px 28px rgba(12,13,20,0.45);border:1px solid rgba(255,255,255,0.035);text-align:center;">
+    <div style="font-weight:600;margin-bottom:8px">Tech I use</div>
+    <div style="display:flex;gap:10px;flex-wrap:wrap;justify-content:center;align-items:center">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+    </div>
+  </div>
 </div>
 
 ---
@@ -114,39 +98,30 @@ const prabesh = {
 ## GitHub Stats
 
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prabesh-Pandey&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9" alt="GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prabesh-Pandey&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="Top languages"/>
-
-<br/><br/>
-
-  <img src="https://streak-stats.demolab.com/?user=Prabesh-Pandey&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=22D3EE&currStreakLabel=A855F7" alt="GitHub Streak"/>
-
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prabesh-Pandey&bg_color=0D1117&color=A855F7&line=22D3EE&point=A855F7&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-
+  <div style="max-width:880px;margin:12px auto;padding:14px;border-radius:12px;background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));box-shadow:0 8px 28px rgba(12,13,20,0.45);border:1px solid rgba(255,255,255,0.035);display:flex;gap:12px;justify-content:center;align-items:center;flex-wrap:wrap;">
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prabesh-Pandey&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9" alt="GitHub stats"/>
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prabesh-Pandey&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="Top languages"/>
+  </div>
 </div>
 
 ---
 
 ## Featured Projects
 
-<p align="center"><i>Here are some of my favorite and most impactful projects. Check them out for code samples, ideas, and inspiration!</i></p>
+<p align="center"><i>Selected work — focused, production-ready repositories and prototypes.</i></p>
 
 <div align="center">
-
-<a href="https://github.com/Prabesh-Pandey/LocalSkillSwap">
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Nepal-College-of-Information-Technology&repo=project-work-group-20&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&text_color=C9D1D9" alt="Furniture E-Commerce project card" />
-</a>
-<a href="https://github.com/Prabesh-Pandey/Task-Manager">
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Prabesh-Pandey&repo=Task-Manager&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&text_color=C9D1D9" alt="Task Manager project card" />
-</a>
-
+  <div style="display:flex;gap:18px;flex-wrap:wrap;justify-content:center;max-width:920px;margin:12px auto;">
+    <a href="https://github.com/Prabesh-Pandey/LocalSkillSwap" title="LocalSkillSwap" style="display:inline-block;border-radius:10px;overflow:hidden;border:1px solid rgba(255,255,255,0.03);background:linear-gradient(180deg, rgba(255,255,255,0.015), rgba(255,255,255,0.005));box-shadow:0 8px 28px rgba(12,13,20,0.35)">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Nepal-College-of-Information-Technology&repo=project-work-group-20&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&text_color=C9D1D9" alt="LocalSkillSwap"/>
+    </a>
+    <a href="https://github.com/Prabesh-Pandey/Task-Manager" title="Task Manager" style="display:inline-block;border-radius:10px;overflow:hidden;border:1px solid rgba(255,255,255,0.03);background:linear-gradient(180deg, rgba(255,255,255,0.015), rgba(255,255,255,0.005));box-shadow:0 8px 28px rgba(12,13,20,0.35)">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Prabesh-Pandey&repo=Task-Manager&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&text_color=C9D1D9" alt="Task Manager"/>
+    </a>
+  </div>
 </div>
 
-<br/>
-
-<p align="center">Explore my repositories for more projects and examples — each project includes README docs, demos, and key highlights.</p>
+<p align="center"><a href="https://github.com/Prabesh-Pandey?tab=repositories">View more projects →</a></p>
 
 ---
 
