@@ -41,31 +41,13 @@ I design and build full-stack web applications with a focus on clean architectur
 
 ---
 
-### Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Nepal-College-of-Information-Technology/project-work-group-20">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Nepal-College-of-Information-Technology&repo=project-work-group-20&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9" alt="LocalSkillSwap"/>
-</a>
-&nbsp;
-<a href="https://github.com/Prabesh-Pandey/Task-Manager">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Prabesh-Pandey&repo=Task-Manager&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9" alt="Task Manager"/>
-</a>
-
-</div>
-
-<p align="center"><a href="https://github.com/Prabesh-Pandey?tab=repositories">View all repositories →</a></p>
-
----
-
 ### GitHub Activity
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Prabesh-Pandey&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prabesh-Pandey&show_icons=true&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabesh-Pandey&layout=compact&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&langs_count=6" alt="Top Languages"/>
+<img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prabesh-Pandey&layout=compact&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&langs_count=6" alt="Top Languages"/>
 
 </div>
 
