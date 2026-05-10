@@ -1,178 +1,74 @@
 <div align="center">
 
-<div style="max-width:980px;margin:14px auto;padding:18px;border-radius:14px;background:linear-gradient(135deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));box-shadow:0 10px 40px rgba(12,13,20,0.6);border:1px solid rgba(255,255,255,0.04);">
+# Prabesh Pandey
 
-<!-- Hero: Capsule + Typing (glass card) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Prabesh%20Pandey&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=30&desc=Full%20Stack%20Developer%20|%20Software%20Engineering%20Student&descSize=14&descAlignY=50" alt="Prabesh Pandey" style="max-width:100%;border-radius:10px;"/>
+**Full Stack Developer · Software Engineering Student**
 
-<br/>
-
-<div style="margin-top:10px;display:flex;gap:10px;justify-content:center;flex-wrap:wrap;align-items:center">
-  <img src="https://komarev.com/ghpvc/?username=Prabesh-Pandey&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile Views"/>
-  <a href="https://github.com/Prabesh-Pandey"><img src="https://img.shields.io/badge/Repos-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
-  <a href="https://www.linkedin.com/in/prabesh-pandey-075156372/"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</div>
+[pandeyprabesh.com.np](https://pandeyprabesh.com.np) · [LinkedIn](https://www.linkedin.com/in/prabesh-pandey-075156372/)
 
 </div>
 
-## About
+---
 
-<div align="center">
-  <div style="max-width:880px;margin:18px auto;padding:18px;border-radius:12px;background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));box-shadow:0 8px 30px rgba(12,13,20,0.5);border:1px solid rgba(255,255,255,0.04);display:flex;gap:20px;align-items:center;flex-wrap:wrap;">
-    <div style="flex:1;min-width:240px">
-      <p style="margin:0 0 8px 0;font-style:italic">Welcome — I build polished web apps and enjoy exploring design, performance, and user-centric product work.</p>
-      <table style="width:100%;border-collapse:collapse;font-size:15px;color:#D1D5DB;line-height:1.7">
-        <tr>
-          <td style="width:28px;vertical-align:top;padding:6px"><img src="assets/icons/location.svg" alt="Location" width="18" style="vertical-align:middle"/></td>
-          <td style="padding:6px"><strong style="color:#FFFFFF">Location:</strong> Nepal — Software Engineering student</td>
-        </tr>
-        <tr>
-          <td style="width:28px;vertical-align:top;padding:6px"><img src="assets/icons/briefcase.svg" alt="Role" width="18" style="vertical-align:middle"/></td>
-          <td style="padding:6px"><strong style="color:#FFFFFF">Role:</strong> Full Stack Developer (React / Node / TypeScript)</td>
-        </tr>
-        <tr>
-          <td style="width:28px;vertical-align:top;padding:6px"><img src="assets/icons/zap.svg" alt="Focus" width="18" style="vertical-align:middle"/></td>
-          <td style="padding:6px"><strong style="color:#FFFFFF">Focus:</strong> Performance, Accessibility & Clean Architecture</td>
-        </tr>
-        <tr>
-          <td style="width:28px;vertical-align:top;padding:6px"><img src="assets/icons/users.svg" alt="Availability" width="18" style="vertical-align:middle"/></td>
-          <td style="padding:6px"><strong style="color:#FFFFFF">Availability:</strong> Open to collaboration & mentorship</td>
-        </tr>
-      </table>
-    </div>
-    <div style="width:300px;text-align:center">
+<table>
+  <tr>
+    <td>
+
+I design and build full-stack web applications with a focus on clean architecture, performance, and user experience. Currently pursuing a Software Engineering degree in Nepal, working primarily with the MERN stack and TypeScript.
+
+**What I'm working on:**
+- Real-time collaborative tools with WebSocket architecture
+- Server-side rendering with Next.js
+- Developer tooling — CLI tools and VS Code extensions
+
+</td>
+    <td align="center" width="300">
       <!-- KEEP: About GIF — Loved by owner (DO NOT REMOVE) -->
-      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="width:100%;border-radius:8px;box-shadow:0 6px 18px rgba(0,0,0,0.6)" alt="Pixel art developer workspace"/>
-    </div>
-  </div>
-</div>
+      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="260" alt="Developer workspace"/>
+    </td>
+  </tr>
+</table>
 
-<br/>
+---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Building-Full_Stack_Apps-7C3AED?style=for-the-badge&labelColor=0D1117" alt="Building"/>
-  <img src="https://img.shields.io/badge/Learning-Design%20%26%20Performance-22D3EE?style=for-the-badge&labelColor=0D1117" alt="Learning"/>
-  <img src="https://img.shields.io/badge/Problem%20Solving-Creative-A855F7?style=for-the-badge&labelColor=0D1117" alt="Problem Solving"/>
-</div>
-
-## Fun Bits
-
-<div align="center">
-  <div style="max-width:760px;margin:12px auto;padding:14px;border-radius:12px;background:linear-gradient(180deg, rgba(255,255,255,0.015), rgba(255,255,255,0.008));box-shadow:0 6px 24px rgba(12,13,20,0.45);border:1px solid rgba(255,255,255,0.03)">
-    <table style="width:100%">
-      <tr>
-        <td align="center" width="33%">
-          <img src="assets/icons/coffee.svg" width="56" alt="Coffee Enthusiast" style="opacity:0.95;vertical-align:middle"/>
-          <br/><b>Coffee Enthusiast</b>
-          <br/><sub style="color:#9CA3AF">Runs on caffeine</sub>
-        </td>
-        <td align="center" width="33%">
-          <img src="assets/icons/headphones.svg" width="56" alt="Music Lover" style="opacity:0.95;vertical-align:middle"/>
-          <br/><b>Music Lover</b>
-          <br/><sub style="color:#9CA3AF">Codes with beats</sub>
-        </td>
-        <td align="center" width="33%">
-          <img src="assets/icons/joystick.svg" width="56" alt="Casual Gamer" style="opacity:0.95;vertical-align:middle"/>
-          <br/><b>Casual Gamer</b>
-          <br/><sub style="color:#9CA3AF">When not coding</sub>
-        </td>
-      </tr>
-    </table>
-  </div>
-</div>
-
-## Tech Stack
-
-<div align="center">
-  <div style="max-width:920px;margin:12px auto;padding:14px;border-radius:12px;background:linear-gradient(135deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));box-shadow:0 8px 28px rgba(12,13,20,0.45);border:1px solid rgba(255,255,255,0.035);text-align:center;">
-    <div style="font-weight:600;margin-bottom:8px">Tech I use</div>
-    <div style="display:flex;gap:10px;flex-wrap:wrap;justify-content:center;align-items:center">
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-    </div>
-  </div>
-</div>
-
-## GitHub Stats
-
-<div align="center">
-  <div style="max-width:880px;margin:12px auto;padding:14px;border-radius:12px;background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));box-shadow:0 8px 28px rgba(12,13,20,0.45);border:1px solid rgba(255,255,255,0.035);display:flex;gap:12px;justify-content:center;align-items:center;flex-wrap:wrap;">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prabesh-Pandey&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9" alt="GitHub stats"/>
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prabesh-Pandey&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="Top languages"/>
-  </div>
-</div>
-
-## Featured Projects
-
-<p align="center"><i>Selected work — focused, production-ready repositories and prototypes.</i></p>
-
-<div align="center">
-  <div style="display:flex;gap:18px;flex-wrap:wrap;justify-content:center;max-width:920px;margin:12px auto;">
-    <a href="https://github.com/Prabesh-Pandey/LocalSkillSwap" title="LocalSkillSwap" style="display:inline-block;border-radius:10px;overflow:hidden;border:1px solid rgba(255,255,255,0.03);background:linear-gradient(180deg, rgba(255,255,255,0.015), rgba(255,255,255,0.005));box-shadow:0 8px 28px rgba(12,13,20,0.35)">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Nepal-College-of-Information-Technology&repo=project-work-group-20&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&text_color=C9D1D9" alt="LocalSkillSwap"/>
-    </a>
-    <a href="https://github.com/Prabesh-Pandey/Task-Manager" title="Task Manager" style="display:inline-block;border-radius:10px;overflow:hidden;border:1px solid rgba(255,255,255,0.03);background:linear-gradient(180deg, rgba(255,255,255,0.015), rgba(255,255,255,0.005));box-shadow:0 8px 28px rgba(12,13,20,0.35)">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Prabesh-Pandey&repo=Task-Manager&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&text_color=C9D1D9" alt="Task Manager"/>
-    </a>
-  </div>
-</div>
-
-<p align="center"><a href="https://github.com/Prabesh-Pandey?tab=repositories">View more projects →</a></p>
-
-## Current Focus
-
-<div align="center">
-  <div style="max-width:760px;margin:12px auto;padding:14px;border-radius:12px;background:linear-gradient(180deg, rgba(255,255,255,0.015), rgba(255,255,255,0.008));box-shadow:0 6px 24px rgba(12,13,20,0.45);border:1px solid rgba(255,255,255,0.03)">
-    <ul style="list-style:none;padding:0;margin:0;font-size:15px;line-height:1.7;color:#D1D5DB">
-      <li style="display:flex;gap:12px;margin:10px 0;align-items:flex-start">
-        <div style="flex:0 0 22px;display:flex;align-items:center;justify-content:center;width:22px"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#D1D5DB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="opacity:0.95;vertical-align:middle"><path d="M9 18l6-6-6-6"/></svg></div>
-        <div style="flex:1">Pursuing Software Engineering degree</div>
-      </li>
-      <li style="display:flex;gap:12px;margin:10px 0;align-items:flex-start">
-        <div style="flex:0 0 22px;display:flex;align-items:center;justify-content:center;width:22px"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#D1D5DB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="opacity:0.95;vertical-align:middle"><path d="M9 18l6-6-6-6"/></svg></div>
-        <div style="flex:1">Building full-stack applications with MERN stack</div>
-      </li>
-      <li style="display:flex;gap:12px;margin:10px 0;align-items:flex-start">
-        <div style="flex:0 0 22px;display:flex;align-items:center;justify-content:center;width:22px"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#D1D5DB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="opacity:0.95;vertical-align:middle"><path d="M9 18l6-6-6-6"/></svg></div>
-        <div style="flex:1">Exploring Next.js and modern web technologies</div>
-      </li>
-      <li style="display:flex;gap:12px;margin:10px 0;align-items:flex-start">
-        <div style="flex:0 0 22px;display:flex;align-items:center;justify-content:center;width:22px"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#D1D5DB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="opacity:0.95;vertical-align:middle"><path d="M9 18l6-6-6-6"/></svg></div>
-        <div style="flex:1">Open to collaboration on interesting projects</div>
-      </li>
-    </ul>
-  </div>
-</div>
+### Tech Stack
 
 <div align="center">
 
-### Let's Connect
-
-<p>
-  <a href="https://github.com/Prabesh-Pandey"><img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/prabesh-pandey-075156372/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
-
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-
-<p>
-  <span style="display:inline-flex;gap:10px;align-items:center;font-size:14px;color:#D1D5DB">
-    <!-- <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/heart-16.svg" style="width:16px;opacity:0.95;vertical-align:middle;margin-right:6px" alt="heart"/> -->
-    <span style="margin:0 6px;color:#6B7280">•</span>
-    <span>🇳🇵 Nepal</span>
-  </span>
-</p>
-
-**Thanks for visiting! Don't forget to star some repositories!**
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind,nodejs,express,mongodb,git,docker,vscode&theme=dark" alt="Tech Stack" />
 
 </div>
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer wave"/>
+---
+
+### Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Nepal-College-of-Information-Technology/project-work-group-20">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Nepal-College-of-Information-Technology&repo=project-work-group-20&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9" alt="LocalSkillSwap"/>
+</a>
+&nbsp;
+<a href="https://github.com/Prabesh-Pandey/Task-Manager">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Prabesh-Pandey&repo=Task-Manager&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9" alt="Task Manager"/>
+</a>
+
+</div>
+
+<p align="center"><a href="https://github.com/Prabesh-Pandey?tab=repositories">View all repositories →</a></p>
+
+---
+
+### GitHub Activity
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Prabesh-Pandey&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabesh-Pandey&layout=compact&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&langs_count=6" alt="Top Languages"/>
+
+</div>
+
+---
+
+<p align="center"><sub>Thanks for stopping by.</sub></p>
