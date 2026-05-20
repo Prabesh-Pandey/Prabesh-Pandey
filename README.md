@@ -32,11 +32,19 @@ I design and build web applications with a bias toward clean architecture, fast 
 
 ### Stats
 
-<div>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Prabesh-Pandey&show_icons=true&hide_border=true&theme=github_dark&icon_color=58a6ff&title_color=c9d1d9&text_color=8b949e&bg_color=00000000&include_all_commits=true&count_private=true" alt="Stats"/>
-  &nbsp;
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=Prabesh-Pandey&hide_border=true&background=00000000&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=8b949e&dates=484f58" alt="Streak"/>
-</div>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Prabesh-Pandey&show_icons=true&hide=stars,issues&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=Prabesh-Pandey&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="170"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabesh-Pandey&layout=compact&hide_border=true&theme=github_dark&langs_count=6" alt="Top Languages" height="170"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
