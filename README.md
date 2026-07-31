@@ -1,32 +1,37 @@
-# Prabesh Pandey
+<sub><!--GREETING:START-->Morning in Nepal. Coffee, then commits.<!--GREETING:END--></sub>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=4000&pause=2000&color=8b949e&vCenter=true&repeat=true&width=435&height=25&lines=full+stack+developer+%C2%B7+software+engineering+student" alt="Tagline" /></a>
+<a href="https://git.io/typing-svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=4000&pause=2000&color=ffffff&vCenter=true&repeat=true&width=520&height=25&lines=backend+developer+%C2%B7+software+engineering+student;open+to+backend+internships">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=4000&pause=2000&color=000000&vCenter=true&repeat=true&width=520&height=25&lines=backend+developer+%C2%B7+software+engineering+student;open+to+backend+internships">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=4000&pause=2000&color=ffffff&vCenter=true&repeat=true&width=520&height=25&lines=backend+developer+%C2%B7+software+engineering+student;open+to+backend+internships" alt="Tagline">
+  </picture>
+</a>
 
-I design and build web applications with a bias toward clean architecture, fast feedback loops, and code that doesn't need a tour guide. Based in Nepal, currently pursuing software engineering.
+I build the parts of software nobody looks at — APIs, socket servers, auth, storage — and I'm most interested in what happens when two things try to be true about the same piece of state at once. Fourth-year software engineering student at NCIT, Kathmandu.
 
 ---
 
 ### What I'm building
 
-**Real-time collaborative tools** — WebSocket architecture, live sync, conflict resolution.
+**Real-time systems** — Socket.io apps where two people act at once, like [PeerCode](https://github.com/Prabesh-Pandey/peercode) (shared live code editing) and [ChatFlow](https://github.com/Prabesh-Pandey/chat-app) (presence, typing, read receipts).
 
-**Server-side rendered apps** — Next.js, edge functions, performance as a feature.
+**Access boundaries that actually hold** — JWT auth and role/department-scoped data, not just a login form in front of an open database.
 
-**Developer tooling** — CLI utilities and VS Code extensions that remove friction.
+**Developer tooling** — [git-commit-buddy](https://github.com/Prabesh-Pandey/git-commit-buddy), a VS Code extension that auto-commits on save with AI-generated messages.
 
 ---
 
 ### Tech
 
 ![React](https://img.shields.io/badge/React-161b22?style=flat&logo=react&logoColor=58a6ff)
-![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=flat&logo=typescript&logoColor=58a6ff)
-![Next.js](https://img.shields.io/badge/Next.js-161b22?style=flat&logo=nextdotjs&logoColor=8b949e)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-161b22?style=flat&logo=tailwindcss&logoColor=58a6ff)
 ![Node.js](https://img.shields.io/badge/Node.js-161b22?style=flat&logo=nodedotjs&logoColor=8b949e)
 ![Express](https://img.shields.io/badge/Express-161b22?style=flat&logo=express&logoColor=8b949e)
+![Socket.io](https://img.shields.io/badge/Socket.io-161b22?style=flat&logo=socketdotio&logoColor=58a6ff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-161b22?style=flat&logo=mongodb&logoColor=8b949e)
+![JWT](https://img.shields.io/badge/JWT-161b22?style=flat&logo=jsonwebtokens&logoColor=8b949e)
 ![Docker](https://img.shields.io/badge/Docker-161b22?style=flat&logo=docker&logoColor=58a6ff)
-![Git](https://img.shields.io/badge/Git-161b22?style=flat&logo=git&logoColor=8b949e)
 
 ---
 

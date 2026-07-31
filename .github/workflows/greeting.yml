@@ -1,0 +1,57 @@
+name: Update greeting
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-greeting:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Compute greeting for current time in Nepal
+        id: greeting
+        run: |
+          HOUR=$(TZ='Asia/Kathmandu' date +%-H)
+          if   [ "$HOUR" -ge 5  ] && [ "$HOUR" -lt 11 ]; then TEXT="Morning in Nepal. Coffee, then commits."
+          elif [ "$HOUR" -ge 11 ] && [ "$HOUR" -lt 17 ]; then TEXT="Midday in Nepal. Mid-sprint, probably."
+          elif [ "$HOUR" -ge 17 ] && [ "$HOUR" -lt 21 ]; then TEXT="Evening in Nepal. Still debugging."
+          elif [ "$HOUR" -ge 21 ] || [ "$HOUR" -lt 1 ]; then TEXT="Late in Nepal. This is usually when it starts working."
+          else TEXT="Past 1am in Nepal. No comment."
+          fi
+          echo "text=$TEXT" >> "$GITHUB_OUTPUT"
+
+      - name: Update README between markers
+        env:
+          GREETING_TEXT: ${{ steps.greeting.outputs.text }}
+        run: |
+          python3 - << 'EOF'
+          import os, re
+
+          text = os.environ["GREETING_TEXT"]
+          with open("README.md") as f:
+              content = f.read()
+
+          updated = re.sub(
+              r"<!--GREETING:START-->.*?<!--GREETING:END-->",
+              f"<!--GREETING:START-->{text}<!--GREETING:END-->",
+              content,
+              flags=re.DOTALL,
+          )
+
+          with open("README.md", "w") as f:
+              f.write(updated)
+          EOF
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: update time-aware greeting"
+          git push
