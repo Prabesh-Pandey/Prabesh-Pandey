@@ -1,4 +1,4 @@
-<sub><!--GREETING:START-->Late in Nepal. This is usually when it starts working.<!--GREETING:END--></sub>
+<sub><!--GREETING:START-->Past 1am in Nepal. No comment.<!--GREETING:END--></sub>
 
 <a href="https://git.io/typing-svg">
   <picture>
