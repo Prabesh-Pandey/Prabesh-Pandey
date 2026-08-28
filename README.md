@@ -1,4 +1,4 @@
-<sub><!--GREETING:START-->Morning in Nepal. Coffee, then commits.<!--GREETING:END--></sub>
+<sub><!--GREETING:START-->Evening in Nepal. Still debugging.<!--GREETING:END--></sub>
 
 <a href="https://git.io/typing-svg">
   <picture>
