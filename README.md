@@ -1,4 +1,4 @@
-<sub><!--GREETING:START-->Midday in Nepal. Mid-sprint, probably.<!--GREETING:END--></sub>
+<sub><!--GREETING:START-->Past 1am in Nepal. No comment.<!--GREETING:END--></sub>
 
 <a href="https://git.io/typing-svg">
   <picture>
